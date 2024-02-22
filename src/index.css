@@ -131,6 +131,7 @@ h6 span{
   cursor: pointer;
   background-color: #ffeba7;
 }
+
 .checkbox:checked + label:before,
 .checkbox:not(:checked) + label:before{
   position: absolute;
